@@ -1,0 +1,11 @@
+body, .nav-tabs > li.active > a, .contact-map address, .popup{ background-color:rgb(51,51,51); color:#fff}
+.brand:hover{ color:rgb(51,51,51)}
+h2, h3{ background-color:#222}
+.header-about-content{ border-color:#222}
+.contact h2:before{ border-color:#fff}
+.contact .row, .container-portfolio .element a{ color:rgb(51,51,51)}
+a,.portfolio .subnavigation li.active a{ color:#fff }
+a:hover{ color:#fff}
+.content-element h1{ color:#fff}
+.content-element .head{background-color:#222;}
+.tb-colors-header, .togglewrap, .togglewrap:hover{ color:rgb(51,51,51)}
