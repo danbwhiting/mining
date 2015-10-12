@@ -1,0 +1,10 @@
+/* CSS Document */
+a,.header h2, .form-control, .nav-tabs, .content-element h1{ border-bottom-color:bisque}
+a:hover,a:focus {border-color:bisque}
+.progress .bar span, .portfolio .more, .portfolio .item-content .img .img-hover a, .flex-direction-nav a:before{ color:bisque }
+.social li a:hover, .progress .bar span, .nav-testimonials li.active a, .contact, .download-resume, .container-portfolio .element .text{ background-color:bisque }
+.header-about{ border-left-color:bisque}
+.list li:before, .testimonial-name:before,h2:before, h2:before, h3:before, .navbar-default .navbar-nav>.active>a:before, .portfolio .subnavigation li.active a:before, .arrow-down a:before{ border-color:bisque; color:bisque }
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover{ border-top-color: bisque; border-left-color: bisque; border-right-color: bisque; }
+
+

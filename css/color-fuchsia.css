@@ -1,0 +1,10 @@
+/* CSS Document */
+a,.header h2, .form-control, .nav-tabs, .content-element h1{ border-bottom-color:fuchsia}
+a:hover,a:focus {border-color:fuchsia}
+.progress .bar span, .portfolio .more, .portfolio .item-content .img .img-hover a, .flex-direction-nav a:before{ color:fuchsia }
+.social li a:hover, .progress .bar span, .nav-testimonials li.active a, .contact, .download-resume, .container-portfolio .element .text{ background-color:fuchsia }
+.header-about{ border-left-color:fuchsia}
+.list li:before, .testimonial-name:before,h2:before, h2:before, h3:before, .navbar-default .navbar-nav>.active>a:before, .portfolio .subnavigation li.active a:before, .arrow-down a:before{ border-color:fuchsia; color:fuchsia }
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover{ border-top-color: fuchsia; border-left-color: fuchsia; border-right-color: fuchsia; }
+
+

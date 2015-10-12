@@ -1,0 +1,10 @@
+/* CSS Document */
+a,.header h2, .form-control, .nav-tabs, .content-element h1{ border-bottom-color:khaki}
+a:hover,a:focus {border-color:khaki}
+.progress .bar span, .portfolio .more, .portfolio .item-content .img .img-hover a, .flex-direction-nav a:before{ color:khaki }
+.social li a:hover, .progress .bar span, .nav-testimonials li.active a, .contact, .download-resume, .container-portfolio .element .text{ background-color:khaki }
+.header-about{ border-left-color:khaki}
+.list li:before, .testimonial-name:before,h2:before, h2:before, h3:before, .navbar-default .navbar-nav>.active>a:before, .portfolio .subnavigation li.active a:before, .arrow-down a:before{ border-color:khaki; color:khaki }
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover{ border-top-color: khaki; border-left-color: khaki; border-right-color: khaki; }
+
+

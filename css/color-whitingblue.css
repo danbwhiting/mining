@@ -1,0 +1,11 @@
+/* CSS Document */
+a,.header h2, .form-control, .nav-tabs, .content-element h1{ border-bottom-color:#0E5187}
+a:hover,a:focus {border-color:#0E5187}
+.progress .bar span, .portfolio .more, .portfolio .item-content .img .img-hover a, .flex-direction-nav a:before{ color:#0E5187 }
+.social li a:hover, .progress .bar span, .nav-testimonials li.active a, .container-portfolio .element .text{ background-color:#005CB8 }
+.header-about{ border-left-color:#005CB8}
+.contact, .download-resume{ background-color:#4282D3 }
+.list li:before, .testimonial-name:before,h2:before, h2:before, h3:before, .navbar-default .navbar-nav>.active>a:before, .portfolio .subnavigation li.active a:before, .arrow-down a:before{ border-color:#0E5187; color:#0E5187 }
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover{ border-top-color: #0E5187; border-left-color: #0E5187; border-right-color: #0E5187; }
+
+
